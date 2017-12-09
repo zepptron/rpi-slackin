@@ -4,4 +4,3 @@ RUN apk update && \
     apk add ca-certificates
 
 CMD /bin/sh
-
